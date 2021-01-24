@@ -273,6 +273,9 @@ export { DanShou, DanshouShadow } from './characters/yijiang2013/danshou';
 export { ZhuiKong, ZhuiKongFilter, ZhuiKongDistance } from './characters/yijiang2013/zhuikong';
 export { QiuYuan } from './characters/yijiang2013/qiuyuan';
 
+export { ShiBei } from './characters/yijiang2014/shibei';
+export { JianYing } from './characters/yijiang2014/jianying';
+
 export { Cheat } from './system/cheat';
 export { BaHu, BaHuShadow } from './game_mode/1v2/bahu';
 export { FeiYang } from './game_mode/1v2/feiyang';
