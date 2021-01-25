@@ -275,6 +275,8 @@ export { QiuYuan } from './characters/yijiang2013/qiuyuan';
 
 export { ShiBei } from './characters/yijiang2014/shibei';
 export { JianYing } from './characters/yijiang2014/jianying';
+export { BingYi } from './characters/yijiang2014/bingyi';
+export { ShenXing } from './characters/yijiang2014/shenxing';
 
 export { Cheat } from './system/cheat';
 export { BaHu, BaHuShadow } from './game_mode/1v2/bahu';
